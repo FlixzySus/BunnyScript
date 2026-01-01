@@ -1,6 +1,6 @@
 -- Female Character Tattoos -- (744 Tattoos)
  
-"Torso – Back" (99 Tattoos)
+"Torso - Back" (99 Tattoos)
 MPX_TATTOO_FM_CURRENT_51 = 1024 // Dewbauchee Stylized
 MPX_TATTOO_FM_CURRENT_51 = 128 // V8 Demon
 MPX_TATTOO_FM_CURRENT_51 = 32 // Gearhead
@@ -168,7 +168,7 @@ MPX_TATTOO_FM_CURRENT_1 = 33554432 // Clown (Female Character Only)
 MPX_TATTOO_FM_CURRENT_1 = 4194304 // Angel (Female Character Only)
  
  
-"Torso – Chest" (119 Tattoos)
+"Torso - Chest" (119 Tattoos)
 MPX_TATTOO_FM_CURRENT_51 = 16384 // Engine Heart
 MPX_TATTOO_FM_CURRENT_51 = 8192 // Widowmaker
 MPX_TATTOO_FM_CURRENT_51 = 4096 // Benefactor Demon
@@ -290,7 +290,7 @@ MPX_TATTOO_FM_CURRENT_0 = 512 // Blank Scroll
 MPX_TATTOO_FM_CURRENT_0 = 8 // Blackjack
  
  
-"Torso – Stomach" (57 Tattoos)
+"Torso - Stomach" (57 Tattoos)
 MPX_TATTOO_FM_CURRENT_51 = 262144 // Hot Rod Demon
 MPX_TATTOO_FM_CURRENT_51 = 131072 // Fooligan Hellfire
 MPX_TATTOO_FM_CURRENT_51 = 65536 // Turbo Dragon
@@ -769,3 +769,4 @@ MPX_TATTOO_FM_CURRENT_1 = 2 // Fiery Dragon
 MPX_TATTOO_FM_CURRENT_0 = 268435456 // Tribal
 MPX_TATTOO_FM_CURRENT_0 = 67108864 // The Warrior
 MPX_TATTOO_FM_CURRENT_0 = 32 // Skull and Sword
+
