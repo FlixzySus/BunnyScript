@@ -1,7 +1,7 @@
 -- Male Character Tattoos -- (741 Tattoos)
  
 "Torso - Back" (99 Tattoos)
-MPX_TATTOO_FM_CURRENT_50 = -2147483648 // Dewbauchee Stylized test
+MPX_TATTOO_FM_CURRENT_50 = -2147483648 // Dewbauchee Stylized
 MPX_TATTOO_FM_CURRENT_50 = 268435456 // V8 Demon
 MPX_TATTOO_FM_CURRENT_50 = 67108864 // Gearhead
 MPX_TATTOO_FM_CURRENT_50 = 1048576 // Tempesta Girl
@@ -765,6 +765,7 @@ MPX_TATTOO_FM_CURRENT_0 = 2 // Fiery Dragon
 MPX_TATTOO_FM_CURRENT_0 = 268435456 // Tribal
 MPX_TATTOO_FM_CURRENT_0 = 67108864 // The Warrior
 MPX_TATTOO_FM_CURRENT_0 = 32 // Skull and Sword
+
 
 
 
